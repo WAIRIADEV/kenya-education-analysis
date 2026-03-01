@@ -1,0 +1,49 @@
+County,Region,Primary_Enrollment_Rate,Secondary_Enrollment_Rate,Dropout_Rate_Primary,Dropout_Rate_Secondary,Pupil_Teacher_Ratio_Primary,Pupil_Teacher_Ratio_Secondary,Literacy_Rate,Schools_Count
+Nairobi,Nairobi,94.2,72.1,5.8,18.3,42,31,87.3,1247
+Mombasa,Coast,88.6,61.4,11.4,24.7,48,38,79.2,423
+Kisumu,Nyanza,86.3,58.2,13.7,27.4,51,41,76.8,612
+Nakuru,Rift Valley,89.1,63.7,10.9,22.6,46,35,80.4,891
+Eldoret (Uasin Gishu),Rift Valley,87.4,60.9,12.6,24.1,49,39,78.6,543
+Kisii,Nyanza,84.7,55.3,15.3,29.8,54,44,74.2,734
+Meru,Eastern,85.9,57.6,14.1,28.3,52,42,75.9,678
+Kakamega,Western,83.2,53.8,16.8,31.2,56,46,72.4,812
+Bungoma,Western,82.6,52.4,17.4,32.6,57,47,71.8,623
+Machakos,Eastern,86.7,59.3,13.3,26.7,50,40,77.4,567
+Kilifi,Coast,76.3,44.8,23.7,38.9,63,52,64.7,489
+Kwale,Coast,74.1,42.3,25.9,41.2,65,54,62.3,312
+Garissa,North Eastern,61.4,31.7,38.6,52.4,72,61,48.6,187
+Wajir,North Eastern,58.2,28.4,41.8,56.1,76,64,44.3,143
+Mandera,North Eastern,54.7,24.9,45.3,59.8,79,67,40.1,121
+Turkana,Rift Valley,59.8,30.2,40.2,54.7,74,63,46.2,198
+Marsabit,Eastern,63.2,33.6,36.8,51.3,71,60,50.4,167
+Samburu,Rift Valley,65.4,35.1,34.6,49.8,69,58,52.7,143
+Tana River,Coast,67.8,37.4,32.2,47.6,68,57,54.9,156
+Isiolo,Eastern,69.3,39.2,30.7,46.1,67,56,56.8,134
+Laikipia,Rift Valley,84.3,56.8,15.7,29.2,53,43,73.6,289
+Nyeri,Central,91.7,67.4,8.3,19.8,44,33,84.2,456
+Kirinyaga,Central,90.4,65.8,9.6,21.3,45,34,82.7,334
+Murang'a,Central,89.8,64.6,10.2,22.1,46,35,81.9,412
+Kiambu,Central,93.1,70.4,6.9,17.6,43,32,86.4,723
+Nyandarua,Central,88.2,62.3,11.8,23.8,47,37,79.7,367
+Embu,Eastern,87.6,61.2,12.4,24.9,48,38,78.9,298
+Tharaka Nithi,Eastern,83.8,54.7,16.2,30.4,55,45,73.1,234
+Kitui,Eastern,81.4,51.9,18.6,33.2,58,48,70.6,567
+Makueni,Eastern,82.9,53.1,17.1,31.9,57,47,72.1,489
+Kajiado,Rift Valley,78.6,48.3,21.4,36.8,61,51,67.4,312
+Narok,Rift Valley,75.2,45.6,24.8,39.4,64,53,63.8,278
+Bomet,Rift Valley,84.6,56.3,15.4,29.6,53,43,73.9,367
+Kericho,Rift Valley,85.8,58.1,14.2,27.9,52,42,75.2,334
+Nandi,Rift Valley,86.2,59.4,13.8,26.8,51,41,76.4,412
+Trans Nzoia,Rift Valley,85.4,57.8,14.6,28.2,52,42,74.8,389
+West Pokot,Rift Valley,72.3,42.7,27.7,42.6,66,55,61.2,223
+Elgeyo Marakwet,Rift Valley,80.7,51.3,19.3,34.1,59,49,69.4,234
+Baringo,Rift Valley,79.4,49.8,20.6,35.4,60,50,68.1,267
+Siaya,Nyanza,85.1,57.2,14.9,28.8,53,43,74.4,456
+Homa Bay,Nyanza,83.6,54.9,16.4,30.8,55,45,73.2,512
+Migori,Nyanza,82.3,53.4,17.7,32.1,56,46,71.6,489
+Nyamira,Nyanza,84.2,56.1,15.8,29.9,54,44,73.5,312
+Vihiga,Western,83.9,55.4,16.1,30.2,55,45,73.1,267
+Busia,Western,81.8,52.7,18.2,33.6,57,47,71.1,334
+Taita Taveta,Coast,80.2,50.6,19.8,34.8,60,50,69.6,234
+Lamu,Coast,71.6,41.4,28.4,43.8,67,56,60.4,98
+Meru (Tharaka),Eastern,83.4,54.2,16.6,30.7,55,45,72.7,289
